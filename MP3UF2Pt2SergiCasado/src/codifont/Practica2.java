@@ -19,7 +19,7 @@ public class Practica2 {
         System.out.println(juntaSaltejats(-25));
         System.out.println(juntaSaltejats(3));  
         System.out.println(juntaSaltejats(0,"La ", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
-        System.out.println(juntaSaltejats(1,"La", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
+        System.out.println(juntaSaltejats(1,"La ", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
         System.out.println(juntaSaltejats(2,"La ", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
         System.out.println(juntaSaltejats(3,"La ", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
         System.out.println(juntaSaltejats(4,"La ", "teua ", "resposta ", "no ", "és ", "la ", "correcta."));
